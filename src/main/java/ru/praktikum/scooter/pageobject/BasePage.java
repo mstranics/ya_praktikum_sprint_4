@@ -1,4 +1,4 @@
-package com.qaScooter.pageobject;
+package ru.praktikum.scooter.pageobject;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.support.ui.WebDriverWait;
